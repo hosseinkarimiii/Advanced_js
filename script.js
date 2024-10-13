@@ -103,8 +103,7 @@
 //     reject("Operation failed."); // Rejected state
 //   }
 // });
-// myPromise
-//   .then((message) => {
+// myPromise.then((message) => {
 //     console.log(message); // Logs: Operation was successful!
 //   })
 //   .catch((error) => {
